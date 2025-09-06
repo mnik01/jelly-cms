@@ -4,14 +4,11 @@ A fast, lightweight static site generator written in C that supports multilingua
 
 ## Features
 
-- **🌍 Multilingual Support**: Automatic locale detection and site generation
-- **🧩 Template Partials**: Reusable HTML components with includes
-- **📁 Asset Management**: Automatic copying of vendor, public, and asset files
-- **⚡ Fast Build Times**: Native C implementation for maximum performance
-- **🎯 Simple Syntax**: Minimal templating with clear syntax
-- **📦 Zero Dependencies**: Single executable with no external requirements
-- [ ] TODO: add markdown support for content
-- [ ] TODO: add cgi support (for auth, captcha, comments features)
+- [x] Multilingual Support**: Automatic locale detection and site generation
+- [x] Template Partials**: Reusable HTML components with includes
+- [x] Zero Dependencies**: Single executable with no external requirements
+- [ ] Markdown support for content
+- [ ] CGI support for auth, captcha, comments features
 
 ## Quick Start
 
