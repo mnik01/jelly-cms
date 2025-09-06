@@ -10,6 +10,7 @@ A fast, lightweight static site generator written in C that supports multilingua
 - **⚡ Fast Build Times**: Native C implementation for maximum performance
 - **🎯 Simple Syntax**: Minimal templating with clear syntax
 - **📦 Zero Dependencies**: Single executable with no external requirements
+- TODO: add markdown support for content
 
 ## Quick Start
 
