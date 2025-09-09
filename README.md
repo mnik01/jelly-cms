@@ -9,6 +9,9 @@ A fast, lightweight static site generator written in C that supports multilingua
 - [x] Zero Dependencies**: Single executable with no external requirements
 - [ ] Markdown support for content
 - [ ] CGI support for auth, captcha, comments features
+- [ ] Watch mode
+- [ ] Serve mode
+- [ ] Help command that shows readme
 
 ## Quick Start
 
